@@ -1,0 +1,118 @@
+{
+  "navigation": {
+    "services": "Services",
+    "marketplace": "Marketplace",
+    "community": "Community",
+    "diseasePredictor": "Disease Predictor",
+    "signIn": "Sign In",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Grow Smarter,",
+    "subtitle": "Farm Better",
+    "description": "Your one-stop platform for modern farming solutions, connecting you with the tools, knowledge, and community you need to thrive.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "features": {
+      "smartFarming": "Smart Farming",
+      "resourceOptimization": "Resource Optimization",
+      "sustainableGrowth": "Sustainable Growth"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive farming solutions designed to enhance your agricultural success",
+    "droneSpray": {
+      "title": "Drone Spray",
+      "description": "Precision agriculture with automated drone spraying services for efficient crop management."
+    },
+    "machineryStorage": {
+      "title": "Machinery & Storage",
+      "equipmentRental": "Equipment Rental",
+      "storageSolutions": "Storage Solutions",
+      "physicalFactorAnalysis": "Physical Factor Analysis",
+      "description": "Access modern farming equipment without the heavy investment. Rent what you need, when you need it."
+    },
+    "veterinaryHelp": {
+      "title": "Veterinary Help",
+      "chatbot": "ChatBot Assistance",
+      "expertConsultation": "Expert Consultation",
+      "description": "Professional veterinary care for your livestock, ensuring their health and productivity."
+    },
+    "livestockDisease": {
+      "title": "Livestock Disease Prediction",
+      "analysis": "Disease Analysis",
+      "support": "Veterinary Support",
+      "description": "AI-powered early warning system for livestock diseases, helping you protect your animals."
+    },
+    "expert": {
+      "title": "Expert Consultation",
+      "soilTesting": "Soil Testing",
+      "suggestions": "Personalized Suggestions",
+      "description": "Connect with agricultural experts for personalized guidance and problem-solving."
+    },
+    "cropPrices": {
+      "title": "Crop Prices",
+      "description": "Stay updated with real-time market prices and trends for better decision making."
+    }
+  },
+  "marketplace": {
+    "exploreProducts": {
+      "title": "Explore Products",
+      "ondc": "ONDC Network"
+    },
+    "cropPrices": {
+      "title": "Crop Prices",
+      "rates": "Market Rates",
+      "trends": "Price Trends"
+    }
+  },
+  "community": {
+    "blog": {
+      "title": "Blog/Articles",
+      "updates": "Latest Updates",
+      "stories": "Success Stories"
+    },
+    "government": {
+      "title": "Government Schemes",
+      "welfare": "Welfare Programs",
+      "financial": "Financial Aid"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More"
+  },
+  "chatbot": {
+    "title": "Chat with Gramin Sathi",
+    "welcome": "Hello! I'm Gramin Sathi, your farming assistant. How can I help you today?",
+    "inputPlaceholder": "Type your message here...",
+    "send": "Send",
+    "suggestionsTitle": "Common Questions",
+    "suggestions": {
+      "crops": "How to improve crop yield?",
+      "soil": "Soil testing services",
+      "equipment": "Equipment rental",
+      "veterinary": "Veterinary assistance",
+      "weather": "Weather forecast"
+    },
+    "responses": {
+      "greeting1": "Hello! How can I assist you with farming today?",
+      "greeting2": "Hi there! Welcome to FarmHub. What can I help you with?",
+      "greeting3": "Namaste! I'm here to help with your farming needs.",
+      "default1": "I understand. Let me connect you with an expert who can help you better.",
+      "default2": "That's a great question. Would you like to speak with a specialist about this?",
+      "default3": "I can help you with that. Would you like to know more about our services?"
+    }
+  },
+  "footer": {
+    "description": "Empowering farmers with modern solutions and technology for sustainable agriculture.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "ourServices": "Our Services",
+    "contactUs": "Contact Us",
+    "copyright": "All rights reserved."
+  }
+}
